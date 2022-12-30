@@ -1,7 +1,6 @@
-<img align="center" alt="Coding" width="800" src="https://www.pluralsight.com/content/pluralsight/en/blog/creative-professional/fro/front-end-web/_jcr_content/main/hero_blog_block/image-res.img.jpg/1527709374691.jpg"></img>
 <h1 align="center">Hi 👋, I'm Timmy</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.horizont.com.hr/posao/frontend-developer.gif"></img>
+<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-d14530c5974391b8a6f9a88d54c6bf9a"></img>
 
 <p align="left"> <a href="https://twitter.com/timi_asha7" target="blank"><img src="https://img.shields.io/twitter/follow/timi_asha7?logo=twitter&style=for-the-badge" alt="timi_asha7" /></a> </p>
 
