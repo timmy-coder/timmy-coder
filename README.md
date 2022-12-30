@@ -1,3 +1,4 @@
+[![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)]
 <h1 align="center">Hi 👋, I'm Timmy</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></img>
