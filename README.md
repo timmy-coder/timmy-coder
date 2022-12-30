@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif])]
+[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)]
 <h1 align="center">Hi 👋, I'm Timmy</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://www.horizont.com.hr/posao/frontend-developer.gif"></img>
