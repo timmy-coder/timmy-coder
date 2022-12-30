@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timmy</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></img>
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></img>
 
 <p align="left"> <a href="https://twitter.com/timi_asha7" target="blank"><img src="https://img.shields.io/twitter/follow/timi_asha7?logo=twitter&style=for-the-badge" alt="timi_asha7" /></a> </p>
 
