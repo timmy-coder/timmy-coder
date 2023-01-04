@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **timiasha7@gmail.com**
 
-- ⚡ Fun fact **I love cooking and tasting food**
+- ⚡ Fun fact **I love reading and tasting food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
