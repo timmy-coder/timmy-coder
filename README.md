@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/timi_asha7" target="blank"><img src="https://img.shields.io/twitter/follow/timi_asha7?logo=twitter&style=for-the-badge" alt="timi_asha7" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js Typescript,Node.js, redux**
+- 🌱 I’m currently learning **Next.js,Typescript,Node.js,Spanish**
 
-- 💬 Ask me about **react, Next.js, tailwindcss**
+- 💬 Ask me about **React, Next.js, tailwindcss**
 
 - 📫 How to reach me **timiasha7@gmail.com**
 
